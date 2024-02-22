@@ -35,3 +35,23 @@ symbol - which can be used as a unique identifier.
 
 6) - Operators
 Operators are used to perform operations on variables and values. An operator is used to manipulate individual data items and return a result.
+
+
+
+
+* Conditionals and Loops *
+
+7) - Conditional Statements
+if statement - It checks a condition and will execute a code block if the condition is met or true. 
+if-else statement - This statement handles both outcomes of our conditional request using the else keyword. If a condition is true, do something. If it's false, do something else. you may want to test multiple conditions. To do that, you can add an additional block called the else-if statement.
+switch statement - It use to streamline multiple conditions.
+
+8) - Looping constructs
+In JavaScript, developers use loops to continually execute repeated blocks of code until a certain condition is satisfied. Loops are similar to conditionals and that a condition must be satisfied in order for the code to execute.
+infinite loop - your loop will not know neither when to start nor when to terminate, and could run indefinitely.
+
+For Loop - It is used to loop a block of code a certain number of times. The for-loop is a structured loop with a specific conditional structure where a counter variable must be set. Then a condition must be specified and finally, the counter must be incremented. 
+
+While loop - It is similar to the for-loop. It will also run for as long as the condition returns true. 
+
+Nested loop - It is used in instances where you need automated repetition of code. it's possible to nest loops within other loops so that multiple tasks can be performed at once. 
