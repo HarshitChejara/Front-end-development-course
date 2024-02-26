@@ -32,3 +32,19 @@ view port - The view port metadata is important when designing responsive web pa
 * User Input and Forms *
 
 4) - Forms and validation
+Form validation is a process that ensures that the data entered by the user in a form is valid and conforms to rules defined by the developer. There are two methods of form validation, client-side validation and server-side validation. 
+client-side validation - It checks for errors as soon as they are typed into the form. the process starts by checking if a form has been 
+                         filled out correctly. If there are no errors, the form will be submitted to the server for processing. However, if there are errors, an error message will alert the user of the invalid data and how to change it for successful submission. 
+server-side validation - It checks for errors after the data has been submitted to the web server. It prevents malicious users from 
+                         tampering with your website's code and submitting invalid data to your server. When the form data is received by the web server, the backend will validate the data before processing it.
+
+
+
+
+* Media Elements *
+
+5) - iFrames
+An iframe is HTML element that allows you to place or embed content from another website into a webpage. it runs the embedded webpage, similar to how a webpage runs in another tab of your web browser. It used to display adverts, but it can also be used to embed content from another website, such as a social media post.  
+
+6) - The canvas element
+It can be used to draw graphics via scripting (usually JavaScript). This can, for instance, be used to draw graphs, combine photos, or create simple animations.
