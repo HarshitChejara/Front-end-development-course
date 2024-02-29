@@ -46,4 +46,11 @@ The Fetch API provides a JavaScript interface for accessing and manipulating par
 
 * Advanced hooks *
 
-9) - What is useReducer and how it differs from useState
+9) - useReducer
+useReducer hook gets a reducer function in addition to the initial state. This is beneficial because the reducer functions second argument is the action object. This object has multiple type values, and based on each of these types values, you can invoke the dispatch function to perform a specific operation. 
+
+10) - useRef to access underlying DOM
+After creating a ref object using the useRef hook, you can set it as the value of a ref attribute of an element you want to reference. The ref object's current property will reference the DOM element after rendering it on the screen. Removing the DOM element will set the current property to null.
+
+11) - Custom hooks
+Custom React JS hooks offer reusability as when a custom hook is created, it can be reused easily, which ensures clean code and reduces the time to write the code. It also enhances the rendering speed of the code as a custom hook does not need to be rendered again and again while rendering the whole code.
