@@ -52,3 +52,11 @@ It is any form of visual media, optimized for viewing on a screen. It's a subset
 
 7) - Figma
 Figma is a free online UX UI design prototyping tool. It is collaborative and assist designers and developers in building digital products. It allows them to edit, comment and review designs and code together.
+
+
+
+
+* User-centered design *
+
+8) - Empathy tools
+Empathy, in design, refers to understanding and sharing users' feelings, needs, and perspectives. It's a foundational step in human-centered design, where designers immerse themselves in the user's world to craft solutions tailored to their genuine requirements. An empathy map is a collaborative tool teams can use to gain a deeper insight into their customers. An empathy map, is divided into 4 quadrants, describing what the persona Says, Thinks, Does, and Feels. 
